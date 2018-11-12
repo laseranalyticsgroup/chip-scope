@@ -28,6 +28,7 @@
 		<Item Name="Stage subVIs" Type="Folder" URL="../Stage subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Acquisition order type def.ctl" Type="VI" URL="../Type defs/Acquisition order type def.ctl"/>
 		<Item Name="ChipScope Control.vi" Type="VI" URL="../ChipScope Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
