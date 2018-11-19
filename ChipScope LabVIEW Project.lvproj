@@ -25,10 +25,12 @@
 		<Item Name="Piezo subVIs" Type="Folder" URL="../Piezo subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Program flow subVIs" Type="Folder" URL="../Program flow subVIs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Stage subVIs" Type="Folder" URL="../Stage subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Acquisition order type def.ctl" Type="VI" URL="../Type defs/Acquisition order type def.ctl"/>
 		<Item Name="ChipScope Control.vi" Type="VI" URL="../ChipScope Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
@@ -96,6 +98,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="libctiff.dll" Type="Document" URL="../libctiff.dll"/>
+			<Item Name="MCM3000.lvlib" Type="Library" URL="/C/Users/Chip Scope/Desktop/MCM3000- do not delete - critical for LabVIEW stage control/LabVIEW/inc/MCM3000.lvlib"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
