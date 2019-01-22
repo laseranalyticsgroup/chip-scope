@@ -42,9 +42,6 @@
 				<Item Name="SubVI_Example_GetImageSize.vi" Type="VI" URL="/&lt;instrlib&gt;/IDS/ueye.NET/Examples/Example Modules SubVIs/SubVI_Example_GetImageSize.vi"/>
 				<Item Name="SubVI_Example_MemoryAllocation.vi" Type="VI" URL="/&lt;instrlib&gt;/IDS/ueye.NET/Examples/Example Modules SubVIs/SubVI_Example_MemoryAllocation.vi"/>
 				<Item Name="Thorlabs_MDT69xB.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Thorlabs_MDT69xB/Thorlabs_MDT69xB.lvlib"/>
-				<Item Name="TLDC4100 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/TLDC4100/TLDC4100.llb/TLDC4100 Close.vi"/>
-				<Item Name="TLDC4100 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/TLDC4100/TLDC4100.llb/TLDC4100 Initialize.vi"/>
-				<Item Name="TLDC4100 VXIpnp Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/TLDC4100/TLDC4100.llb/TLDC4100 VXIpnp Error Converter.vi"/>
 				<Item Name="uEyeDotNet.dll" Type="Document" URL="/&lt;instrlib&gt;/IDS/ueye.NET/uEyeDotNet.dll"/>
 				<Item Name="z_StateMachineVorlage.ctl" Type="VI" URL="/&lt;instrlib&gt;/TLDC4100/TLDC4100.llb/z_StateMachineVorlage.ctl"/>
 			</Item>
@@ -85,6 +82,7 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
 				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
@@ -120,7 +118,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="TLDC4100_64.dll" Type="Document" URL="/C/Program Files/IVI Foundation/VISA/Win64/Bin/TLDC4100_64.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
